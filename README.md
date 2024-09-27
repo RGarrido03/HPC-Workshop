@@ -1,6 +1,11 @@
 # Workshop sobre HPC
 Este repositório contém documentos e códigos utilizados no workshop sobre HPC.
 
+> [!TIP]
+> Mantenha este repositório aberto durante o workshop, para que possa ter sempre informação disponível. Durante o workshop, serão utilizados comandos que, por conveniência, estão disponíveis aqui.\
+> **Mais à frente no workshop, encontrará instruções para transferir este repositório para o nó da INCD.**
+
+## Estrutura
 Cada ficheiro _markdown_ contém um tópico específico, com uma breve descrição e exemplos de comandos. Os tópicos abordados são:
 
 - [Instalar Windows Subsystem For Linux](1.md)
