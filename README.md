@@ -9,5 +9,5 @@ Cada ficheiro _markdown_ contém um tópico específico, com uma breve descriç�
 - [Aceder à INCD](4.md)
 - [Visão geral sobre a gestão de módulos](5.md)
 - [Visão geral sobre a gestão de trabalhos](6.md)
-- [Submeter um trabalho](7.md)
+- [Submeter um trabalho](7/7.md)
 - [Configurar udocker](8.md)
