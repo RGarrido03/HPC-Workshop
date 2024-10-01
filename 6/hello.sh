@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH -p fct
+#SBATCH -p hpc
 #SBATCH --ntasks-per-node=1
 #SBATCH --nodes=1
 
