@@ -8,11 +8,10 @@ Este repositório contém documentos e códigos utilizados no workshop sobre HPC
 ## Estrutura
 Cada ficheiro _markdown_ contém um tópico específico, com uma breve descrição e exemplos de comandos. Os tópicos abordados são:
 
-- [Instalar Windows Subsystem For Linux](1.md)
-- [Familiarizar-se com a bash](2.md)
-- [Copiar chaves SSH para o Linux](3.md)
-- [Aceder à INCD](4.md)
-- [Visão geral sobre a gestão de módulos](5.md)
-- [Visão geral sobre a gestão de trabalhos](6.md)
-- [Submeter um trabalho](7/7.md)
-- [Configurar udocker](8.md)
+- [Familiarizar-se com a bash](1.md)
+- [Copiar chaves SSH para o Linux](2.md)
+- [Aceder à INCD](3.md)
+- [Visão geral sobre a gestão de módulos](4.md)
+- [Visão geral sobre a gestão de trabalhos](5.md)
+- [Submeter um trabalho](6/6.md)
+- [Configurar udocker](7/7.md)
