@@ -1,8 +1,7 @@
 #!/bin/bash
 
 #SBATCH -p hpc
-#SBATCH --ntasks-per-node=1
-#SBATCH --nodes=1
+#SBATCH --ntasks=4
 
 module load udocker/1.3.16
 
