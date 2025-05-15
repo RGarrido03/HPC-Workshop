@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH -p hpc
+#SBATCH -p tuthpc
 #SBATCH --ntasks=4
 
 module load gcc11/gromacs/2023
