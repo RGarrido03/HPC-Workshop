@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH -p tuthpc
+#SBATCH -p hpc
 #SBATCH --ntasks=4
 
 module load udocker/1.3.17
